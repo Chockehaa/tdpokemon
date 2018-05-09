@@ -1,0 +1,6 @@
+2018/04/06 07:50:15 [error] 28#0: *57 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local"
+2018/04/06 08:22:53 [error] 28#0: *61 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local"
+2018/04/13 10:20:43 [error] 46#0: *19 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local"
+2018/04/20 12:09:25 [error] 83#0: *71 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local", referrer: "http://tdsql.local/base-pokemon.php"
+2018/04/29 11:57:09 [error] 87#0: *1 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local"
+2018/04/29 11:57:11 [error] 87#0: *3 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET / HTTP/1.0", host: "tdsql.local"

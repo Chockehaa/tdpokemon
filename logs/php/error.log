@@ -1,0 +1,25 @@
+[06-Apr-2018 07:29:34 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 07:29:35 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 07:29:36 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 07:29:36 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 07:29:38 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 07:29:39 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Apr-2018 08:28:00 UTC] PHP Notice:  Undefined variable: db in /app/public/base-pokemon.php on line 14
+[06-Apr-2018 08:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /app/public/base-pokemon.php:14
+Stack trace:
+#0 {main}
+  thrown in /app/public/base-pokemon.php on line 14
+[06-Apr-2018 08:28:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ')' in /app/public/base-pokemon.php on line 9
+[06-Apr-2018 08:29:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ')' in /app/public/base-pokemon.php on line 8
+[06-Apr-2018 08:29:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/base-pokemon.php on line 19
+[06-Apr-2018 08:31:46 UTC] PHP Notice:  Undefined variable: reponse in /app/public/base-pokemon.php on line 16
+[06-Apr-2018 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /app/public/base-pokemon.php:16
+Stack trace:
+#0 {main}
+  thrown in /app/public/base-pokemon.php on line 16
+[06-Apr-2018 08:32:26 UTC] PHP Notice:  Undefined variable: reponse in /app/public/base-pokemon.php on line 16
+[06-Apr-2018 08:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /app/public/base-pokemon.php:16
+Stack trace:
+#0 {main}
+  thrown in /app/public/base-pokemon.php on line 16
+[13-Apr-2018 10:42:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/base-pokemon.php on line 73
